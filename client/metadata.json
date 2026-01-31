@@ -1,0 +1,5 @@
+{
+  "name": "StreamFlow",
+  "description": "A production-ready, Spotify-like music streaming application featuring a persistent player, playlist management, and AI-powered music recommendations.",
+  "requestFramePermissions": []
+}
